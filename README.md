@@ -20,14 +20,27 @@ Developer Site: https://developer.apple.com/xcode/downloads/
 Objective-C
  Library
  Foundation Framework
-   - Core
-   - NSXXX
+   * Core
+   * NSXXX
  Cocoa Framework
-   - UI
-   - UIXXXX
+   * UI
+   * UIXXXX
 
 프로그램 문법
-
+  자료: 데이터에 대한 규정, 자료형에 대한 규칙, 값의 형태 + 저장장소의 크기
+   자료형에 대한 규칙
+   원시 자료형 - Int(Uint), Float, Double, Bool, String, Character
+   Objective-C 확장 자료형 - Objective-C 유도된 자료형,  NS***, UI***
+   저장 장소의 종류
+     ** 변수: 오버라이팅 가능
+     ** 상수: 오버라이팅 불가
+   저장 장소의 이름
+     ** 식별자
+  제어
+  
+  
+  
+  
 
 Reference
 Official: https://developer.apple.com/swift/
