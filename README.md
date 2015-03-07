@@ -10,4 +10,11 @@ Requirements
  4. Search
  5. Swift 1.1+, Xcode 6.1+
  
- 
+Developer Site: https://developer.apple.com/xcode/downloads/
+
+앱개발을 위해서는 유료가입 필요 (개인, 회사)
+개발환경 구축: 
+ 1. 유료계정 가입? 교육용 계정가입 ? <- 확인중
+ 2. 베타버전 다운로드 Xcode 6.3 beta 2, including iOS 8.3 SDK with Swift 1.2 가 무료인 거 같음
+
+
